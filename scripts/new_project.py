@@ -1,7 +1,7 @@
 import sys, os
 
 
-projectName = "testProj"
+projectName = "Newproject"
 robotName = "testRobot"
 
 links = ["a","b","c"]
