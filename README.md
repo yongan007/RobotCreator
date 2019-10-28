@@ -22,6 +22,11 @@ https://forum.freecadweb.org/viewtopic.php?f=10&t=15442
 Pull Requests are welcome. 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+#update
+
+>>>>>>> model
 
 =======
 #updated readme
