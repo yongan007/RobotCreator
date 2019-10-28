@@ -24,6 +24,7 @@ Pull Requests are welcome.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 #update
 
@@ -36,3 +37,5 @@ Pull Requests are welcome.
 #updated
 >>>>>>> Macro
 
+=======
+>>>>>>> scripts
