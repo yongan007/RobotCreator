@@ -21,21 +21,4 @@ Please direct all feedback to the dedicated FreeCAD forum thread
 https://forum.freecadweb.org/viewtopic.php?f=10&t=15442  
 Pull Requests are welcome. 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-#update
 
->>>>>>> model
-
-=======
-#updated readme
->>>>>>> icons
-=======
-#updated
->>>>>>> Macro
-
-=======
->>>>>>> scripts
